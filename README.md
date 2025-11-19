@@ -1,3 +1,11 @@
+
+
+Code : Human made
+README : Ai generated under my guidance
+
+---
+
+
 # WIP : Simple Image Processing Toolkit
 
 ### 0. Demonstration
